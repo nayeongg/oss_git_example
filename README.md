@@ -7,7 +7,6 @@
 * Week1-2  
 **오픈소스소프트웨어 개요**   
   * OSS License : 오픈소스 소프트웨어의 사용, 복제, 수정, 배포 권한의 범위를 지정 ex) GPL, LGPL, MIT license, BSD License, Apache License,  MPL
-  * 
 
 ### 2. **Week2**  
 * Week2-1 버전 관리 개요
